@@ -1,4 +1,4 @@
-package com.example.asusgita.tugas_ke2;
+package com.example.asusgita.tugas_ke2.User;
 
 import java.io.Serializable;
 
